@@ -28,7 +28,7 @@ twitter_username: dpar87
 github_username:  Parikshit87
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
