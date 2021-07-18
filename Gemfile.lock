@@ -46,6 +46,7 @@ GEM
     ffi (1.15.3-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
+	gem "addressable", ">= 2.8.0"
     github-pages (215)
       github-pages-health-check (= 1.17.2)
       jekyll (= 3.9.0)
@@ -272,6 +273,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  addressable (>= 2.8.0)
   github-pages (~> 215)
   jekyll-feed (~> 0.12)
   jekyll-theme-merlot (~> 0.1.1)
