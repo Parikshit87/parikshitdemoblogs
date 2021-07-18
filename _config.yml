@@ -29,7 +29,7 @@ twitter_username: dpar87
 github_username:  Parikshit87
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
