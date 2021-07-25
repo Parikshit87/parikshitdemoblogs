@@ -22,7 +22,7 @@
 title: Tech Writer's Blog
 email: dpar87@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This web site discusses on latest trends in technical writing, documentation methodologies, tools, processes, DITA and CCMS, REST API documentation, open source documentation and my thoughts on future of technical documentation.
+  This website discusses on latest trends in technical writing, documentation methodologies, information architecture, doc tools, industry practices, DITA and CCMS, REST API documentation, open source documentation and my personal thoughts on the future of technical documentation.
 baseurl: "/parikshitdemoblogs" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dpar87

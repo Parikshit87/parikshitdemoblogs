@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "More about static site generators"
-date:   2021-04-26
+date:   2021-04-26 17:01:30 +05:30
 categories: jekyll update
 ---
 The options for building a website include website builders and content management systems (CMS). They provide templates to design your site and require you to pay for hosting.
