@@ -28,10 +28,12 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 twitter_username: dpar87
 github_username:  Parikshit87
 paginate: 5
+paginate_path: "/blog/page:num/"
 # Build settings
 theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
