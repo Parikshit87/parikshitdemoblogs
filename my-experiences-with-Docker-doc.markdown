@@ -158,13 +158,7 @@ For example,
 |----------------|-------------------------------|-----------------------------|
 |node:12-alpine|Dockerfile            |   To instruct the builder that we want to start from the `node:12-alpine` image. But, since we didn’t have that on our machine, that image needed to be downloaded.         |
 |yarn|Dockerfile                        |To install our application’s dependencies            |
-|-t|Docker build command|To tag our image|
-
-
-
-
-
-
+|-t|Docker build command|To tag our image |
 
 
 
