@@ -19,10 +19,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tech Writer's Blog
+title: Parikshit's Blog
 email: dpar87@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This website discusses on latest trends in technical writing, documentation methodologies, information architecture, doc tools, industry practices, DITA and CCMS, REST API documentation, open source documentation and my personal thoughts on the future of technical documentation.
+  This website aims to provide you useful resources ans trending topics on business analysis, project management, product startegy, technical writing, information architecture, tools, industry practices, API documentation, open source documentation and my personal thoughts.
 baseurl: "/parikshitdemoblogs" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dpar87
